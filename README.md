@@ -2,7 +2,7 @@
 
 A full-featured **PySide6 / PyQt6** desktop application built to provide real-time visibility and analytics for supply chain and inventory data.
 
-![Main Application Window](screenshots/main-window.png)
+![Main Application Window](screenshots/main-window2.png)
 
 
 ## Overview
