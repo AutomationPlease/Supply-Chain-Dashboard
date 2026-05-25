@@ -42,7 +42,7 @@ Additional customer map for if Folium is out of company library install policy. 
 ## Technologies Used
 
 - **Frontend**: PySide6 / PyQt6 (Python GUI framework)
-- **Data Processing**: pandas, openpyxl
+- **Data Processing**: pandas, numpy, openpyxl
 - **Visualization**: Custom Qt tables + Leaflet map integration
 - **Architecture**: Model-View architecture with background threading for responsive UI
 
