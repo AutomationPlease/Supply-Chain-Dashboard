@@ -33,7 +33,7 @@ This internal tool was built to consolidate multiple Excel data sources into a s
 **[NOTE: Data shown is simulated/faked or blocked out to protect company data integrity]**
 
 
-![IMM Summary](screenshots/imm-summary.png)
+![IMM Summary New](screenshots/imm-summary-new.png)
 
 
 ![Customer Map](screenshots/customer-map.png)
