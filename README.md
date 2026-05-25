@@ -35,7 +35,7 @@ This internal tool was built to consolidate multiple data sources into a single,
 
 ![Demand Page - Two Items, One Location (6 weeks)](screenshots/demand-page%2C%20two%20items%2C%20one%20location%2C%20show%206%20weeks.png)
 
-Additional customer map for if Folium is out of company library install policy. This map includes a simple straight line customer distance calculator.
+Additional customer map for if Folium is out of company library install policy. This map includes a simple straight line customer distance calculator, and is made using Plotly.
 [**NOTE: Key ID label names are being blocked out to protect the data integrity of the company**]
 ![Customer Map 2](screenshots/customer-map-2.png)
 
