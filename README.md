@@ -15,9 +15,29 @@ This internal tool was built to consolidate multiple data sources into a single,
 - Configurable data source management
 - Excel export functionality from all table views
 - Real-time data refresh capabilities
+- Visual demand charts with multi-filter selections
+  - Select multiple items, multiple locations, specific time frames
+
+## Screenshots
+
+
+[**NOTE: Data shown is being simulated/faked to protect the data integrity of the company**]
+![IMM Summary](screenshots/imm-summary.png)
 
 ![Customer Map](screenshots/customer-map.png)
+
+[**NOTE: Data source file paths and names are being blocked out to protect the data integrity of the company**]
 ![Settings Panel](screenshots/settings.png)
+
+![Demand Page - One Item, One Location (24 weeks)](screenshots/demand-page%2C%20one%20item%2C%20one%20location%2C%20show%2024%20weeks.png)
+
+![Demand Page - One Item, Two Locations (8 weeks)](screenshots/demand-page%2C%20one%20item%2C%20two%20locations%2C%20show%208%20weeks.png)
+
+![Demand Page - Two Items, One Location (6 weeks)](screenshots/demand-page%2C%20two%20items%2C%20one%20location%2C%20show%206%20weeks.png)
+
+Additional customer map for if Folium is out of company library install policy. This map includes a simple straight line customer distance calculator.
+[**NOTE: Key ID label names are being blocked out to protect the data integrity of the company**]
+![Customer Map 2](screenshots/customer-map-2.png)
 
 ## Technologies Used
 
