@@ -1,7 +1,5 @@
-#basic stripped down example
-
 """
-Example snippet from Supply Chain Dashboard
+Basic Very Stripped Down Example snippet from Supply Chain Dashboard
 Demonstrates pandas data loading and PySide6 table integration
 """
 
